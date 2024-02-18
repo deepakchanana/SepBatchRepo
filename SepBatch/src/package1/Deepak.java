@@ -4,7 +4,7 @@ public class Deepak {
 
 	public int abc(int a,int b) // parameterized method +non void meth
 	{
-   // methodname---abc
+   // methodname---abc,,,,,,,,,,,,,,,,,,,,,deepak branch
   // method type---2 parameterized method(taking the inputs)
  // method output---it will return int value(giving the output)
 	}
